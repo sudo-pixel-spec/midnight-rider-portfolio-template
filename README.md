@@ -1,4 +1,4 @@
-# Hunter Portfolio Template
+# Midnight-Rider Portfolio Template
 
 A cinematic, single-page developer portfolio with a motorcycle-inspired theme. Smooth scrolling, glassmorphism, scroll reveals, and a splash loader - ready to clone and make yours.
 
